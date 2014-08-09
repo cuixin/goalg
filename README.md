@@ -1,0 +1,1 @@
+Golang's some simple algorithms.
